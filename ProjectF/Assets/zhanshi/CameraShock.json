@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2909483500608051461
+  },
+  "m_Name": "CameraShock",
+  "Decay": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "Direction": {
+    "x": 0.02,
+    "y": 0.02,
+    "z": 0.02
+  },
+  "Count": 80,
+  "Frequency": 0.01
+}

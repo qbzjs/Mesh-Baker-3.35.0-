@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8690509871156306612
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Zhanshi_Skill",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": 8322652684003465582
+      }
+    },
+    {
+      "key": "CloseupFinish",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "HurtEvent",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}

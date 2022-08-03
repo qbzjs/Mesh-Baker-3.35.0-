@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4858405154872276043
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Bullet_Hero_Zhanshi_jianqizhan",
+      "info": "剑气斩",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5695939913784147105
+      }
+    },
+    {
+      "key": "Bullet_Hero_Zhanshi_luojian",
+      "info": "落剑",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6531870639095379308
+      }
+    }
+  ]
+}

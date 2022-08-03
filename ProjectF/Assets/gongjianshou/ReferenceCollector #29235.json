@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2059877534315628534
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Gongjianshou",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1257353050954664263
+      }
+    }
+  ]
+}

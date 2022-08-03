@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4012845257330157204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7767531441878344810
+  },
+  "m_Name": "",
+  "effect": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3039629943396487768
+    }
+  ],
+  "Level": 0,
+  "isSyncPosition": 0,
+  "Signable": "Attack0"
+}

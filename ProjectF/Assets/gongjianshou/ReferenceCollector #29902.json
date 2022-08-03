@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9133369041764798730
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Hero_bullet",
+      "info": "普通子弹",
+      "gameObject": {
+        "m_FileID": 15,
+        "m_PathID": 656646153739836809
+      }
+    },
+    {
+      "key": "Hero_shooter_flash",
+      "info": "攻击123时的闪光",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -8047046144763432420
+      }
+    },
+    {
+      "key": "Hero_shooter_xuli_01",
+      "info": "攻击4的蓄力",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -1479290315894250102
+      }
+    },
+    {
+      "key": "Hero_shooter_xuli_02",
+      "info": "攻击5的蓄力",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -768683341413112054
+      }
+    },
+    {
+      "key": "Hero_shooter_Arrowrain",
+      "info": "攻击5箭雨",
+      "gameObject": {
+        "m_FileID": 16,
+        "m_PathID": 4453812072835105586
+      }
+    },
+    {
+      "key": "Hero_shooter_wing",
+      "info": "天使之翼常在",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -8052238187228782073
+      }
+    },
+    {
+      "key": "Hero_shooter_Angel_wings_appear",
+      "info": "天使之翼出现",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3075842816942760388
+      }
+    },
+    {
+      "key": "Hero_shooter_xuli_03",
+      "info": "攻击5的蓄力的发出箭雨",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6575729139185412482
+      }
+    },
+    {
+      "key": "Hero_shooter_ji_neng_xuli",
+      "info": "主动技能的蓄力",
+      "gameObject": {
+        "m_FileID": 17,
+        "m_PathID": 6353042214289241820
+      }
+    },
+    {
+      "key": "Hero_shooter_ji_neng_bao",
+      "info": "主动技能的爆开",
+      "gameObject": {
+        "m_FileID": 18,
+        "m_PathID": -2246092462533601257
+      }
+    }
+  ]
+}

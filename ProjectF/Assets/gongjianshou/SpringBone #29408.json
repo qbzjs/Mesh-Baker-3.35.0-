@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8542968446370474965
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8450475154966008092
+  },
+  "m_Name": "",
+  "child": {
+    "m_FileID": 0,
+    "m_PathID": -1141292243836474111
+  },
+  "boneAxis": {
+    "x": -1.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "radius": 0.15,
+  "isUseEachBoneForceSettings": 1,
+  "stiffnessForce": 0.04,
+  "dragForce": 0.4,
+  "springForce": {
+    "x": 0.0,
+    "y": -0.0001,
+    "z": 0.0
+  },
+  "colliders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2560711753736603119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -360304064366051705
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7344620909359273400
+    }
+  ],
+  "debug": 1,
+  "threshold": 0.01
+}

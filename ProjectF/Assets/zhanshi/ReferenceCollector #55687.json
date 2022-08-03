@@ -1,0 +1,190 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1347278198549979723
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Around",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Around1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Collider",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5168478110912748691
+      }
+    },
+    {
+      "key": "Bullet",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2278220086601125757
+      }
+    },
+    {
+      "key": "Bip001 Prop1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -1904973751252981970
+      }
+    },
+    {
+      "key": "Character",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -3210290950639724536
+      }
+    },
+    {
+      "key": "Body",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3025775904289291641
+      }
+    },
+    {
+      "key": "Center",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4721745917125557936
+      }
+    },
+    {
+      "key": "Weapon",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 9194184692094434849
+      }
+    },
+    {
+      "key": "Miracle_1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2408599136556858292
+      }
+    },
+    {
+      "key": "Miracle_2",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 641562493846918217
+      }
+    },
+    {
+      "key": "Miracle_4",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7330092713079427927
+      }
+    },
+    {
+      "key": "Miracle_3",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5740502952709915620
+      }
+    },
+    {
+      "key": "Miracle",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2201573417412168455
+      }
+    },
+    {
+      "key": "dg_collicer",
+      "info": "刀光打击地面的点",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2145942176812429111
+      }
+    },
+    {
+      "key": "feidan_01",
+      "info": "飞弹挂点1",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4787086600879927021
+      }
+    },
+    {
+      "key": "feidan_02",
+      "info": "飞弹挂点2",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6068788999020681946
+      }
+    },
+    {
+      "key": "feidan_03",
+      "info": "飞弹挂点3",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -4741752743435240854
+      }
+    },
+    {
+      "key": "feidan_04",
+      "info": "飞弹挂点4",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6649232631276699951
+      }
+    },
+    {
+      "key": "feidan_05",
+      "info": "飞弹挂点5",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -4565587499898494709
+      }
+    },
+    {
+      "key": "feidan_06",
+      "info": "飞弹挂点6",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8882616753587674123
+      }
+    },
+    {
+      "key": "feidan_07",
+      "info": "飞弹挂点7",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -5094486495053208190
+      }
+    }
+  ]
+}

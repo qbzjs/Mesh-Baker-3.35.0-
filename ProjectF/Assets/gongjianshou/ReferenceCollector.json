@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -285776234814941573
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Hero_bullet_common",
+      "info": "普攻子弹",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8507696844890516569
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_bullet01",
+      "info": "攻击12子弹(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -618998117710165213
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_bullet02",
+      "info": "攻击3子弹(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8889397760707411050
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_Arrowrain",
+      "info": "攻击5箭雨等级1(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -8081930769520131689
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_Angel_wings",
+      "info": "天使之翼(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6249396502793430477
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_bullet03",
+      "info": "攻击4的子弹(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4785648773936151246
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_Arrowrain_LV2",
+      "info": "攻击5箭雨等级2(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -5877641360678434380
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_Arrowrain_LV3",
+      "info": "攻击5箭雨等级3(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4310079459890995068
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_Arrowrain_LV4",
+      "info": "攻击5箭雨等级4(新)",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4045734060128105499
+      }
+    },
+    {
+      "key": "Bullet_Hero_shooter_ji_neng",
+      "info": "主动技能的箭",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6645838905666570895
+      }
+    }
+  ]
+}

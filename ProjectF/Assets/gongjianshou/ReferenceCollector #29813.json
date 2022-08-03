@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1393382004429202489
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Gongjianshou_Skill",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 1,
+        "m_PathID": -1464661831192182845
+      }
+    },
+    {
+      "key": "CloseupFinish",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "HurtEvent",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Origin",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Shocksignal",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Step1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Step2",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "key": "Step3",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ]
+}

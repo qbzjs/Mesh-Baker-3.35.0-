@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 195475838983126062
+  },
+  "m_Name": "",
+  "DelayTime": 0.23,
+  "cameraShock": {
+    "m_FileID": 10,
+    "m_PathID": 3834704775371017488
+  }
+}

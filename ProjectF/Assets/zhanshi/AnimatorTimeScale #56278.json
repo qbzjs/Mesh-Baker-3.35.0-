@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3809764259122269552
+  },
+  "m_Name": "",
+  "TimerScale": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": -1.60714281,
+        "outSlope": -1.60714281,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.56,
+        "value": 0.1,
+        "inSlope": "Infinity",
+        "outSlope": 3.33333659,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.59,
+        "value": 0.2,
+        "inSlope": 3.33333659,
+        "outSlope": 8.8888855,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.68,
+        "value": 1.0,
+        "inSlope": 8.8888855,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "isActive": 1,
+  "Signable": "Attack5"
+}

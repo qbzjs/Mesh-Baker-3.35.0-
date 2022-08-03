@@ -1,0 +1,190 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1257353050954664263
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Around",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -4267492598090822399
+      }
+    },
+    {
+      "key": "Around1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7435240191287645125
+      }
+    },
+    {
+      "key": "Collider",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6802529288657685990
+      }
+    },
+    {
+      "key": "Bullet",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3943580582722351887
+      }
+    },
+    {
+      "key": "Center",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1624051876771894693
+      }
+    },
+    {
+      "key": "Miracle_1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6733294342935451965
+      }
+    },
+    {
+      "key": "Miracle_2",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -242934452416916459
+      }
+    },
+    {
+      "key": "Miracle_3",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -4172773621292931826
+      }
+    },
+    {
+      "key": "Miracle_4",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5510492098975239680
+      }
+    },
+    {
+      "key": "Character",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -4723807058385098264
+      }
+    },
+    {
+      "key": "Body",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6476076001820490086
+      }
+    },
+    {
+      "key": "Bip001 Prop1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6148534680275488473
+      }
+    },
+    {
+      "key": "Attack_Ground_Bullet",
+      "info": "攻击123的箭位置",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3620026220553573847
+      }
+    },
+    {
+      "key": "Attack_Jump_Bullet",
+      "info": "攻击4的箭位置",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8220651090227804163
+      }
+    },
+    {
+      "key": "Attack5_Arrowrain_Bullet",
+      "info": "攻击5箭雨的蓄力位置",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -8446807846385778262
+      }
+    },
+    {
+      "key": "feidan_01",
+      "info": "飞弹挂点1",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2022189225644423334
+      }
+    },
+    {
+      "key": "feidan_02",
+      "info": "飞弹挂点2",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4283004377018406138
+      }
+    },
+    {
+      "key": "feidan_03",
+      "info": "飞弹挂点3",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 9093709149820679779
+      }
+    },
+    {
+      "key": "feidan_04",
+      "info": "飞弹挂点4",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 53962311065045900
+      }
+    },
+    {
+      "key": "feidan_05",
+      "info": "飞弹挂点5",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2001158528801415291
+      }
+    },
+    {
+      "key": "feidan_06",
+      "info": "飞弹挂点6",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -9140687356787921369
+      }
+    },
+    {
+      "key": "feidan_07",
+      "info": "飞弹挂点7",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5816367297424406337
+      }
+    }
+  ]
+}

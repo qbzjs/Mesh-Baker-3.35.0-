@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2909483500608051461
+  },
+  "m_Name": "HitShock",
+  "Decay": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "Direction": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.0
+  },
+  "Count": 2,
+  "Frequency": 0.005
+}

@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1370325280916914035
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7767531441878344810
+  },
+  "m_Name": "",
+  "effect": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6348501749234856525
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7906934475285862808
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6535518027118616459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1886355831608987146
+    }
+  ],
+  "Level": 0,
+  "isSyncPosition": 0,
+  "Signable": "Attack5"
+}

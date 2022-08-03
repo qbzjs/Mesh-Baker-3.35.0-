@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5263316713627426409
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Around",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3792117870374071576
+      }
+    },
+    {
+      "key": "Around1",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2357015932607068722
+      }
+    },
+    {
+      "key": "Collider",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8652991993377204604
+      }
+    },
+    {
+      "key": "Bullet",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -7817246630449675024
+      }
+    },
+    {
+      "key": "Character",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2402916083228046109
+      }
+    },
+    {
+      "key": "Bip001 Prop1",
+      "info": "弓放的位置",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 436268216362845850
+      }
+    },
+    {
+      "key": "Body",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6321630156511471661
+      }
+    },
+    {
+      "key": "Face",
+      "info": "请在此\n输入简介",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7035072117569216829
+      }
+    }
+  ]
+}

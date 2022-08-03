@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3809764259122269552
+  },
+  "m_Name": "",
+  "TimerScale": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": -1.47540975,
+        "outSlope": -1.47540975,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.61,
+        "value": 0.1,
+        "inSlope": "Infinity",
+        "outSlope": 5.000005,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.63,
+        "value": 0.2,
+        "inSlope": 5.000005,
+        "outSlope": 40.00004,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.65,
+        "value": 1.0,
+        "inSlope": 40.00004,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "isActive": 1,
+  "Signable": "Attack2"
+}

@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2989341745861750340
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2001653364334856626
+  },
+  "m_Name": "",
+  "dynamicRatio": 0.6,
+  "stiffnessForce": 0.01,
+  "stiffnessCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "dragForce": 0.3,
+  "dragCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "springBones": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6835735650682512727
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5638316002810541628
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 709307264530863955
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1896444553858444855
+    }
+  ]
+}

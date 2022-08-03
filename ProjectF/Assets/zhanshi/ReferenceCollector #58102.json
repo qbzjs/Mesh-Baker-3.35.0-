@@ -1,0 +1,86 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6232826623035390821
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1414807400496041132
+  },
+  "m_Name": "",
+  "data": [
+    {
+      "key": "Hero_Zhanshi_attack07_LV1",
+      "info": "等级1无敌斩",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 4679882959839847118
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_attack07_LV2",
+      "info": "等级2无敌斩",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2386933206529784592
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_attack07_LV3",
+      "info": "等级3无敌斩",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5526420571491727441
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_attack07_LV4",
+      "info": "等级4无敌斩",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2369414830222660946
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_luojian_bao",
+      "info": "落剑爆开",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2670140981728259810
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_ji_neng",
+      "info": "主动技能",
+      "gameObject": {
+        "m_FileID": 15,
+        "m_PathID": -1878850056151648864
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_ji_neng_bao",
+      "info": "主动技能爆",
+      "gameObject": {
+        "m_FileID": 13,
+        "m_PathID": -466574377548077975
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_ji_neng_kt",
+      "info": "主动技能虎头",
+      "gameObject": {
+        "m_FileID": 14,
+        "m_PathID": 5745965700916086556
+      }
+    },
+    {
+      "key": "Hero_Zhanshi_ji_neng_trailing",
+      "info": "主动技能剑拖尾",
+      "gameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8279518323682609664
+      }
+    }
+  ]
+}
