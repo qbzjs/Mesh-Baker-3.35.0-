@@ -35596,7 +35596,7 @@ GameObject:
   - component: {fileID: 8908618280843506567}
   - component: {fileID: 3919821756581976332}
   m_Layer: 10
-  m_Name: ExplodudeRed (1)
+  m_Name: ExplodudeRed
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
