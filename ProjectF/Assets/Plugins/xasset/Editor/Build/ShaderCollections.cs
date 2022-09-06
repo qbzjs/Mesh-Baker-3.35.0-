@@ -6,14 +6,14 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using Config;
-using LitJson;
 
 namespace xasset.editor
 {
+    
     public class ShaderCollection : EditorWindow
     {
-        private const string ALL_SHADER_VARAINT_PATH = GlobalConfig.DynamicResPrePath + "/Materials/AllShaders.shadervariants";
+        // GlobalConfig.DynamicResPrePath +
+        private const string ALL_SHADER_VARAINT_PATH =  "/Materials/AllShaders.shadervariants";
         private const string TOOLS_SVC_PATH = "Assets/Materials/Tools.shadervariants";
 
         private static List<string> allShaderNameList = new List<string>();

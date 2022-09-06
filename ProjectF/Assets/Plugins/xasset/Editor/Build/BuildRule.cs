@@ -19,7 +19,7 @@ namespace xasset.editor
         [Tooltip("记录前是否清理旧的")]
         public bool clearBeforeRecord;
         public List<GroupBuild> autoGroupList = new List<GroupBuild>();
-        [FilePath, Header("过滤的配置文件")]
+        [Sirenix.OdinInspector.FilePath, Header("过滤的配置文件")]
         public List<string> filterFiles = new List<string>();
 
         [SerializeField, Tooltip("打包AB的选项")]
